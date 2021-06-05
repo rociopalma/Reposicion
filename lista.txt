@@ -1,0 +1,17 @@
+A |	Cuenta de cliente preferencial ORO
+A |	Tarjeta de crédito Black
+A |	Cambio de divisa con tarifa preferencial
+A |	Transferencias
+A |	Pago de servicio
+A |	Caja de seguridad
+B |	Cuenta de cliente preferencial PLATA
+B |	Tarjeta de crédito Internacional
+B |	Cambio de divisa con tarifa preferencial
+B |	Transferencias 
+C |	Cuenta de cliente
+C |	Tarjeta de crédito Internacional
+C |	Recepción de remesas
+C |	Cuenta de ahorro
+D |	Cuenta de cliente
+D |	Cuenta de ahorro
+D |	Tarjeta de crédito

@@ -17,6 +17,9 @@ import java.util.TreeMap;
 public class treeMap {
     TreeMap<Integer, Servicio> map = new TreeMap<>();
     
+    public treeMap() {
+        map = new TreeMap<Integer, Servicio>();
+    }
     public void leerArchivo() {
 
         int cuenta = 1;

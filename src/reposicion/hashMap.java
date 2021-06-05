@@ -82,6 +82,12 @@ public class hashMap {
                 }//fin if dentro
             }//fin else
             }
+
         
     }// fin obtener categoria
+    
+    public void crearServicio(){
+            Servicio servicio = new Servicio();
+            
+        }
 }//fin de clase
